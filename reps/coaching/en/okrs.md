@@ -57,7 +57,7 @@ OKRs are meant to help you communicate with your company on how to move forward 
 * Increase MAU (assumed to be flawed) to 30% using our analytics
 * 70% of newly acquired users answer questions at least 100 times
 
-** Objective**: Improve infrastructure
+**Objective**: Improve infrastructure
 
 **Key Results**:
 
