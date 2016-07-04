@@ -16,9 +16,10 @@ At the same time, this relationship will be of one year. After that time, Coache
 
 Guide will have the following content:
 
-* [Differences between mentorship and coaching]()
-* [Three Listening level]()
-* [Coaching tools]() (as described in «The Tao of coaching» book by Max Landsberg
-* [Have to give Feedback]()
-* [OKR system for making plans]()
-* [Different types of personalities]()
+* [Differences between mentorship and coaching](/diff_mentor_coach.md)
+* [Three Listening level](./3_listenings_levels.md)
+* [Structuring the coaching session: GROW](./coaching-session.md)
+* [How to run a super quick coaching session](./quick_coaching_session.md)
+* [The power of questions](power_of_questions.md)
+* [How to give Feedback](how-to-give-feedback.md)
+* [OKR system for making plans](./okrs.md)
