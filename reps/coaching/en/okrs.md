@@ -1,4 +1,4 @@
-# OKRs (Objective and Key Results)
+## OKRs (Objective and Key Results)
 
 OKR is an abbreviation for Objective & Key Result. The concept was invented at the Intel Corporation and is widely used amongst the biggest technology companies in the world including Google and Zynga.
 
@@ -6,7 +6,7 @@ OKRs are meant to set strategy and goals over a specified amount of time for an 
 
 Spending a concerted effort in identifying your company strategy and laying it out in a digestible way with OKRs can truly help your employees see how they are contributing to the big picture and align with other teams.
 
-## Objective
+### Objective
 
 > What do I want to get done.
 
@@ -18,7 +18,7 @@ Great objectives are:
 * Time bound
 * Actionable by me
 
-## Key results
+### Key results
 
 > How you know if you met your objective
 
@@ -32,15 +32,15 @@ Great Key Results are:
 * Quantity/quality balance
 * Difficult, not impossible
 
-## Conclusions
+### Conclusions
 
 *How many OKRs should I have?*
 
-The idea is not quantity, but quality of OKRs. Think about the key things you need to do to further your business, goals, or ideas and put the focus there. Also, not all Key Results are created equal. In more sophisticated OKR sets they can range from ‘must have’ to ‘nice to have.’ 
+The idea is not quantity, but quality of OKRs. Think about the key things you need to do to further your business, goals, or ideas and put the focus there. Also, not all Key Results are created equal. In more sophisticated OKR sets they can range from ‘must have’ to ‘nice to have.’
 
 OKRs are meant to help you communicate with your company on how to move forward and win. The better you understand your goals and how to get there the more effective and precise your objectives will be — and same with your outcomes.
 
-## Example
+### Example
 
 **Objective**: Increase Quorum user base
 
@@ -70,7 +70,7 @@ OKRs are meant to help you communicate with your company on how to move forward 
 * Attempt 5 major algorithm improvements
 * Build an algorithm accuracy measurement tool and achieve 80% positively matched question results
 
- 
+
 **Objective**: Refresh Quorum App UX & Design
 
 **Key Results**:
@@ -80,6 +80,6 @@ OKRs are meant to help you communicate with your company on how to move forward 
 * Launch new logo & app icon on app, website, social media, blog
 * Refresh app store screenshots & copy
 
-## Links
+### Links
 * [OKRs by niket](https://medium.com/startup-tools/okrs-5afdc298bc28#.s473oufac)
 * [Startup OKRs Template](https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1)

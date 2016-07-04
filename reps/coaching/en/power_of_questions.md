@@ -1,4 +1,4 @@
-# The power of questions
+## The power of questions
 
 Coaches sometimes offer suggestions to their coachees, and managers often issue instructions. But the most powerful coaching is non-directive: it is based on asking excellent questions – especially when there is a Gordian Knot of a predicament that cannot be untied, and so must be cut instead.
 
@@ -24,7 +24,7 @@ The page opposite offers the coach a selection of ways in which to help the coac
 | (Imagined) retrospect | Imagine you have already chosen the course of action – now tell me why you chose it? |
 | Someone else’s point of view | How would he/she/your ally/your enemy/your father/your mother etc react? [or want you to react?] |
 
-## Other powerful questions examples
+### Other powerful questions examples
 
 1. What do you want?
 2. What’s holding you back?
@@ -34,7 +34,7 @@ The page opposite offers the coach a selection of ways in which to help the coac
 6. What is the most meaningful action you could take now?
 7. What new skills or support systems will ensure your success?
 
-## Anatomy of a Powerful Question
+### Anatomy of a Powerful Question
 
 All powerful questions:
 
@@ -43,5 +43,5 @@ All powerful questions:
 * Generate creative thinking and surface underlying information.
 * Encourage self reflection.
 
-## Links
+### Links
 * [Powerful coaching questions](http://www.prosperouscoachblog.com/powerful-coaching-questions/)

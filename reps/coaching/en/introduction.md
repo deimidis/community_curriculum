@@ -1,10 +1,10 @@
 # A Coaching guide for Mozillians
 
-## What is this guide?
+### What is this guide?
 
 Following Reps.Next proposal, we are changing the way *Mentorship* works on Reps program, and we will use the same framework to give **Coach** tools for Mozilla's leaders (a unified group between Reps mentors and Leadership Cohort). This is plan like a **guide** and **training** system to improve individual skillset on mozillians.
 
-## Paradigm change
+### Paradigm change
 
 Until now, Mentor relationship in Reps is a hierarchical one, where you need that your mentor review and approve your request to continue. Help and training could be part of the relationship, but is not mandatory.
 
@@ -12,7 +12,7 @@ With Reps.Next we want to introduce a new way to work, where a Mentor become a C
 
 At the same time, this relationship will be of one year. After that time, Coachee could ask for another coach (that will depend on her/his idea of what they want to accomplished in the coming months) or decide to continue with the same one.
 
-## Content
+### Content
 
 Guide will have the following content:
 

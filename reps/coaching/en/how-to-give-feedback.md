@@ -1,4 +1,4 @@
-# Giving feedback
+## Giving feedback
 
 > Be ready to transform but do not provoke, illuminate the darkness of ignorance but do not blind. (Tao Te Ching, Verse 58)
 
@@ -16,7 +16,7 @@ A few definitions:
 
 To provide a factual context for your discussion of how your coachee performed, you can of course refer to notes which you took at the time, replay a video (if the coachee had agreed to being videoed) or ask a third party to comment.
 
-## Actions, Impact, Desired outcome
+### Actions, Impact, Desired outcome
 
 There is more to coaching than just give feedback; but feedback was, however, a critically important tool; and it's difficult to generalise about how to do it well. Nevertheless, in providing feedback, ensure you address three topics, with the acronym AID to help you remember them:
 
@@ -24,11 +24,11 @@ A	(**Actions**) The things that the coachee is doing well, or poorly, in the are
 I	(**Impact**) The effect these actions are having
 D	(**Desired outcome**) The ways in which the coachee could do things more effectively.
 
-## Feedback is no a one-time-action
+### Feedback is no a one-time-action
 
 Feedback is a process that requires constant attention. When something needs to be said, say it. People then know where they stand all the time and there are few surprises. Also, problems don't get out of hand. This is not a once-a-year or a once-every-three-month event.
 
-## Tips on giving feedback
+### Tips on giving feedback
 
 * **Prepare Your Comments** You don't want to read a script but you do need to be clear about you are going to say. This helps you stay on track and stick to the issues.
 
@@ -38,11 +38,11 @@ Feedback is a process that requires constant attention. When something needs to 
 
 * **Provide context** Talk about specific moments where you saw or noted something. Talk about actions, not what you believe were her/his intentions.
 
-* **State the impact** Tell her/him what happened when their made that action 
+* **State the impact** Tell her/him what happened when their made that action
 
 * **End with next steps** on how could she/he test other behaviors/actions next time.
 
-## A feedback model
+### A feedback model
 
 1. **Observation** — what was seen/what happened? This is a specific and factual description that is nonjudgmental. This is just how it is, and is formed from the coach’s view of the “act,” not the “actor.” For example, in each of the last two sessions John has not completed the actions he said he would.
 

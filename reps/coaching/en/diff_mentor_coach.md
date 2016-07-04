@@ -1,4 +1,4 @@
-# Differences between Mentor and Coach
+## Differences between Mentor and Coach
 
 > "There is a great man who makes every man feel small. But the real great man is the man who makes every man feel great." --G.K. Chesterton
 

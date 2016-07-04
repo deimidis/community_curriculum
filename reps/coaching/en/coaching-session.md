@@ -1,4 +1,4 @@
-# Structuring the coaching session: GROW
+## Structuring the coaching session: GROW
 
 So, how do we actually structure a coaching session? The **GROW** (**G**oal, **R**eality, **O**ptions, **W**rap up) model is one of the most common coaching tools, widely used by many great coaches.
 
@@ -11,7 +11,7 @@ Here are a few tips for using this model:
 * Illustrate, and check understanding, throughout by using specific examples – from the coachee’s and your own experiences
 * If you have a follow up session, you can obviously lengthen or shorten each of the four steps as needed
 
-## The Grow Model
+### The Grow Model
 
 * Agree topic for discussion
 * Agree specific objective of session

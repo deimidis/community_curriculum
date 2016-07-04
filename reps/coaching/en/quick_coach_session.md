@@ -1,4 +1,4 @@
-# How to run a super quick coaching session
+## How to run a super quick coaching session
 
 Sometimes you do not have the time or knowledge to complete a full coaching discussion and really build someone’s skills, but you do want to help someone who is ‘stuck’ to complete the task in question.
 
